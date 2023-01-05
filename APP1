@@ -1,0 +1,2322 @@
+<html>
+ <body>
+  <script type = "text/javascript">
+Function intialDevice()
+{ 
+    var serialPortNumber;
+    var value;
+    var buadrate;
+    var comport;
+    
+    serialPortNumber=value;
+    
+    if comport>200{
+        buadrate = value;
+        alert("Init Ok")
+        else
+        alert("Init Error")
+    }
+}
+
+ 
+ </script>
+   </body>
+     </html>
+
+            <html>
+              <body>
+                <script type= "text/javascript">
+                    Function CloseDevice()
+                    { 
+                      alert("CloseDevice");
+            }
+                </script>
+                        </body>
+                              </html>
+
+    <html>
+         <body>
+              <script>
+              
+                    Function Download3DFS()
+                    {
+                        var numOldKey;
+                        var unsignedChar;
+                        var oldKey;
+                        var numNewKey;
+                        var newKey;
+                        
+                        numOldKey = (unsignedChar * oldKey);
+                        numNewKey = (unsignedChar * newKey);
+                        
+                        if (numOldKey= true){
+                            alert("Set success");
+                                else 
+                                       alert("Set Fail");
+                                          
+                                          if (numNewKey= true){
+                                                
+                                                alert("Set Failure");
+                             }
+                        
+                    
+                    }
+                }
+
+             </script>
+                    </body>
+                             </html>
+                             
+        <html>
+               <body>
+                     <script>
+                     
+                     Function GetSDK() 
+                     {
+                          var SDKversion;
+                          var char;
+                          var OutVer;
+                          
+                          SDKversion = (char * OutVer);
+                          
+                          if (SDKversion = true)
+                          {
+                           alert("Ok");
+                           
+                           else
+                              alert("Fail");
+                              
+                               }
+                     }    
+                     
+        <html>
+            <body>
+                 <script>
+                 Function IntitialICCard()
+                 {
+                     var Array(5);
+                     var unsign;
+                     var x;
+                     var slot;
+                     
+                     for x = Array(0){
+                          
+                         slot = unsign * Array(0);
+                         
+                         if slot = Array(0)
+                         {
+                           alert("Intial Ok");
+                           else
+                              if slot = Array(1)
+                           {
+                             alert("Card Out");
+                             
+                             if slot = Array(2)
+                             {
+                                 alert("Slot error");
+                                 
+                                 if slot = Array(3)
+                                 {
+                                       alert("Communication Failure");
+                                 }
+                             }
+                             
+                            }
+                        
+                         }
+                 }
+                 
+                 
+                 
+                 
+                </script>
+                     </body> 
+                            </html>
+                               
+                               
+                                 <html>
+            <body>
+                <script type = "text/javascript">
+                    Function CloseDevice()
+                    { 
+                      alert("CloseDevice");
+            }
+                </script>
+                        </body>
+                              </html>
+                              
+     <html>
+            <body>
+                   <script type = "text/javascript" >
+                      Function CardWriteRead() 
+                      {
+                      var unsign;
+                      var send;
+                      var unsignChar;
+                      var sendLen;
+                      var cardSlot;
+                      var rec;
+                      
+                      if (cardSlot<=5) 
+                      {
+                          unsign = (unsignChar * send)
+                          
+                          sendLen = (unsign * rec)
+                          
+                          alert("Succesful Implementation");
+                          
+                          alert("Can not communicate with or without power");
+                      }
+                      
+                          
+                      }
+                      
+                   
+                         </script>
+                                    </body>
+                                             </html>
+                   
+     
+        <html>
+             <body>
+                   <script>
+                   
+                   Function IccDel() 
+                   {
+                       var slot;
+                       var x;
+                       
+                       for x = 0 to 4; 
+                       {
+                       
+                       if (slot == 0)
+                       {
+                           alert("Yes")
+                           else
+                           alert("No")
+                       }
+                       
+                       
+                   }
+                   
+                   }
+                   
+                   </script>
+                            </body>
+                                   </script>
+                                   
+                                   
+              <html>
+                   <body>
+                        <script>
+                        Function FindCard()
+                        {
+                            var unsignedChartype;
+                            var unsignChar;
+                            var rsp;
+                            var type;
+                            
+                            unsignedChartype = (unsignChar * rsp);
+                            
+                            if (type == "A")
+                               {
+                                   alert("Ok")
+                               }
+                            
+                            if (type == "B")
+                              {
+                                  alert("Ok")
+                              }
+                        }
+                        
+                        
+                        
+                        
+                         </script>
+                                </body>
+                                     </html>
+                                     
+        <html>
+            <body>
+                 <script>
+                 Function SelectRFICard()
+                 {
+                     var unsignChar;
+                     var serialNo;
+                     
+                     unsignChar = (unsignChar * serialNo);
+                     
+                     alert("Ok")
+                 
+                 }
+                 
+                 
+                 </script>
+                          </body>
+                                 </html>
+                                 
+                                   
+                                       <html>
+                                            <body>
+                                                 <script>
+                                                 Function CardAuthority()
+                                                 {
+                                                     var type;
+                                                    
+                                                       
+                                                     
+                                                     if (type=="A")
+                                                     {
+                                                     alert("Pass")
+                                                     
+                                                     else 
+                                                     
+                                                     if (type == "B")
+                                                     {
+                                                     alert("Pass")
+                                                     }
+                                                      }
+                                                 }
+     </script>
+     </body>
+      </html>  
+      
+                                                                       
+     <html>
+     <body>
+    <script>
+    Function ReadBlockData()
+    {
+       var unsignedCharBlock;
+       var unsignedChar;
+       var pck;
+       var x;
+       var y;
+       var numArray(16);
+       
+       unsignedCharBlock = (unsignedChar * pck);
+       unsignedCharBlock = x * 4 + y;
+       
+       if numArray(x)> 16
+       {
+           alert("Ok")
+       }
+     }
+                                                                                 
+                                                                                 
+    </script>
+    </body>
+    </html>
+       
+       <html>
+       <body>
+       <script>
+       
+     Function WriteBlockData()
+     {
+          var unsignedCharBlock;
+       var unsignedChar;
+       var pck;
+       var x;
+       var y;
+       var numArray(16);
+       
+       unsignedCharBlock = (unsignedChar * pck);
+       unsignedCharBlock = x * 4 + y;
+       
+       if (numArray(x) > 16)
+       {
+           alert("Ok")
+       }
+     }
+                                                                                 
+                                                                                 
+    </script>
+    </body>
+    </html>
+     
+     <html>
+     <body>
+     <script>
+     
+     Function PowerOffRfid()
+     {
+         var unsignedChar;
+         var strNo = "0x00";
+         unsignedChar = strNo;
+         
+         alert("strNo". "Ok")
+     }
+     
+     <html>
+     <body>
+     <script>
+     Function ReadSectorData()
+     {
+         var unsignedChartype;
+         var unsignedChar;
+         var pwd;
+         var Array(5);
+         var x;
+         var key;
+         var readBuffer;
+         var unsignCharSector;
+         var buff;
+         var snr;
+         var SnrCard;
+         
+         for (x = 0 to 5);
+         {
+             Array(5)
+             alert("Strong")
+             
+             if (key=="A")
+             {
+              alert("Pass")
+              
+              if (key=="B")
+              {
+                  alert("Pass")
+                  
+                  if (readBuffer>=42)
+                  {
+                      (unsignCharSector = unsignedChar * buff);
+                      
+                      (SnrCard = unsignedChar * snr);
+                  }
+            
+              }
+                 
+             }
+         
+              }
+              }
+     
+     </script>
+     </body>
+     </html>
+     
+     <html>
+     <body>
+     <script>
+            
+            </script>
+            </body>
+            </html>
+            
+            
+            <html>
+            <body>
+            <script>
+              Function MagOpen()
+              {
+                  var power = "On";
+                  
+                  alert("On")
+              }
+            </script>
+            </body>
+            <html>
+     
+     1.9 or 1.8
+     
+          <html>
+          <body>
+          <script>
+          Function MagClose()
+          {
+              var power = "Close";
+              
+              alert("Close")
+          }
+          </script>
+          </body>
+          </html>
+     
+          <html>
+          <body>
+          <script>
+          Function MagReset()
+          {
+              var power = "Close";
+              alert("Reset")
+          }
+          </script>
+          </body>
+          </html>
+          
+          <html>
+          <body>
+          <script>
+          
+          Function DetectSwipe()
+          {
+              var swipe;
+              if (swipe == 0)
+              {
+                  alert("Yes")
+                  
+                  if (swipe == "Other") 
+                  {
+                      alert("No")
+                  }
+              }
+          }
+                                   
+        </script>
+        </body>
+        </html>
+        
+        <html>
+        <body>
+        <script>
+        
+        Function ReadCardOuter()
+        {
+         var pointer1;
+         var pointer2;
+         var pointer3;
+         var unsignedChar;
+         var track1;
+         var track2;
+         var track3;
+          
+          pointer1 = (unsignedChar * track1);
+          pointer2 = (unsignedChar * track2);
+          pointer3 = (unsignedChar * track3);
+          
+          alert("Correctly read track 1 data")
+          alert("Correctly read track 2 data")
+          alert("Correctly read track 3 data")
+        }
+           </script>
+        </body>
+        </html>
+                    
+        <html>
+        <body>
+        <script>
+         Function CardNumber()
+         {
+             var unsignedSlot;
+             var char;
+             var data;
+             
+             if (unsignedSlot == 0 || unsignedSlot == 5)
+             {
+             
+              unsignedSlot = (char * data);
+                 
+                 alert("Ok")
+                 
+                 else 
+                 
+                 alert("Fail")
+             }
+         }
+        </script>
+        </body>
+        </html>
+                               
+        <html>
+        <body>
+        <script>
+        Function EMVCoreInit()
+        {
+            alert("Ok")
+            alert("Fail")
+        }
+        
+         </script>
+        </body>
+        </html>
+        
+        <html>
+        <body>
+        <script>
+          Function AddAidsList()
+          {
+            var  emvAddAidList;
+            var addAidsList;
+            var tEmvAppList;
+            var pEmvAppList;
+            var aidsListData;
+            
+            emvAddAidList = (tEmvAppList * pEmvAppList);
+            addAidsList = (pEmvAppList * aidsListData);
+            
+            alert("Ok")
+            alert("Fail")
+          }
+        </script>
+        </body>
+        </html>
+                    
+        <html>
+        <body>
+        <script>
+        
+        Function AddCapk()
+        {
+            var emvAddCapkList;
+            var tEmvTermCapk;
+            var pEmvTermCapk;
+            var addCapk;
+            var capkData;
+            var read;
+            
+            emvAddCapkList = (tEmvTermCapk * pEmvTermCapk);
+            
+            addCapk = (pEmvTermCapk - capkData);
+            
+            if (read = = "0x00")
+            {
+                alert("Ok")
+                else
+                alert("Fail")
+            }
+            
+        }
+        </script>
+        </body>
+        </html>
+        
+        
+        <html>
+        <body>
+        <script>
+         Function EmvTransaction()
+         {
+             var slot;
+             var u8;
+             var pAmountAuth;
+             var pucTransResult;
+             var read;
+             
+             if (slot==0 || slot==5)
+             {
+                 pAmountAuth = (pAmountAuth * u8);
+                 pucTransResult = (pucTransResult * u8);
+                 
+                 if (read =="0x40")
+                 {
+                     alert("Approve")
+                     
+                     if (read == "0x00")
+                     {
+                      alert("Refuse")
+                      
+                      alert("Ok")
+                      
+                      if (read == "0x80")
+                      alert("Online")
+                      
+                      else 
+                      alert("Other")
+                 }
+                
+             }
+         }
+         }
+         
+        </script>
+        </body>
+        </html>
+                               
+      
+             <html>
+             <body>
+             <script>
+             
+             Function GetTlvData()
+             {
+                 var u32;
+                 var uiTag;
+                 var puncDataOut;
+                 var u8;
+                 var puiDataOutLen;
+                 var read;
+                 
+                 uiTag = (uiTag - u32);
+                 puncDataOut = (puncDataOut * u8);
+                 puiDataOutLen = ( puiDataOutLen * u32);
+                 
+                 if (read == "0X00")
+                 {
+                     alert("OK")
+                     
+                     else
+                     
+                     if (read == "Other")
+                     {
+                      alert("Fail")
+                 }
+                 
+                 
+             }
+             }
+             </html>
+             </body>
+             </script>
+             
+            
+              <html>
+              <body>
+              <script>
+               Function GetTransParamPoint()
+               {
+                   var paraPointer;
+                   var tEmvTermParam;
+                   var emvCoreGetTermParam;
+                   
+                   paraPointer = (tEmvTermParam * emvCoreGetTermParam);
+                   
+                   alert(paraPointer)
+               }
+              </script>
+              </body>
+              </html>
+              
+                <html>
+              <body>
+              <script>
+               Function GetTransParamPoint()
+               {
+                   var paraPointer;
+                   var tEmvTermParam;
+                   var emvCoreGetTermParam;
+                   
+                   paraPointer = (tEmvTermParam * emvCoreGetTermParam);
+                   
+                   alert(paraPointer)
+               }
+              </script>
+              </body>
+              </html>
+              
+              <html>
+              <body>
+              <script>
+              Function setTLVdata()
+              {
+                  var u8;
+                  var u32;
+                  var uiTag;
+                  var uiDataInLen;
+                  var pucDataIn;
+                  var value;
+                  var read;
+                  
+                  uiDataInLen = value;
+                  pucDataIn = value;
+                  uiTag = value;
+                  (u8 * pucDataIn);
+                  
+                  if (read == "0x00")
+                  {
+                      alert("OK")
+                      
+                      else
+                      
+                      if (read == "Other")
+                      {
+                          alert("Fail")
+                      }
+                  }
+                  
+              }
+              
+              </script>
+              </body>
+              </html>
+                               
+            <html>
+            <body>
+            <script>
+            
+            Function setCallback()
+            {
+                var ptEmvCallBack;
+                var tEmvCoreCallBack;
+                var read;
+                
+                ptEmvCallBack = (ptEmvCallBack * tEmvCoreCallBack);
+                
+                if (read == "0x00")
+                {
+                    alert("Ok")
+                    
+                    else
+                    
+                    if (read == "Other")
+                    {
+                        alert("Fail")
+                    }
+                  
+                }
+                
+                
+            }
+            
+            
+            </script>
+            </body>
+            </html>
+                      
+                               
+           <html>
+           <body>
+           <script>
+           
+           Function ClearAidList()
+           {
+               var read;
+               
+               if (read == "0x00")
+               {
+                   alert("Ok")
+                   
+                   if (read == "Other")
+                   {
+                       alert("Fail")
+                   }
+               }
+           }
+           
+           </script>
+           </body>
+           </html>
+           
+           <html>
+           <body>
+           <script>
+           Function ClearCAPKList()
+           {
+               var read;
+               
+               if (read == "0x00")
+               {
+                   alert("OK")
+                   
+                   if (read == "Other")
+                   {
+                       alert("Fail")
+                   }
+               }
+           }
+           
+           </script>
+           </body>
+           </html>
+           
+           <html>
+           <body>
+           <script>
+            
+            Function RequestDesireCard()
+            {
+                var cardSeriesNumber;
+                var unsignedChar;
+                var buffer;
+                
+                if (read == "0x00")
+                {
+                    alert("OK")
+                    
+                    else
+               if (read == "Other")
+                  alert("Fail")
+                }
+            }
+           
+           
+           </script>
+           </body>
+           </html>
+           
+          <html>
+          <body>
+          <script>
+           
+           Function ActivationDesireCard()
+           {
+               var activationDesireCardNo;
+               var unsignedChar;
+               var buffer;
+               var read;
+               
+               activationDesireCardNo = (unsignedChar * buffer);
+               
+               if (read == "0x00")
+              {
+                  alert("Ok")
+                  
+                if (read == "Other")
+                {
+                    alert("Fail")
+                }
+              }
+               
+           }
+          
+          </script>
+          </body>
+          </html>
+                               
+                               
+        <html>
+        <body>
+        <script>
+         
+         Function PowerOffDesireCard()
+         
+         {
+         
+          var read;
+          
+             if (read == "0x00")
+             {
+                 alert("OK")
+                
+                else
+                
+                if (read == "Other")
+                {
+                    alert("Fail")
+                }
+             }
+         }
+        
+        </script>
+        </body>
+        </html>
+                               
+                               
+                               
+        <html>
+        <body>
+        <script>
+        
+        Function AuthenticationKey()
+       
+        {
+        
+        var read;
+        var unsignedChar;
+        var key;
+        var index;
+        var authKey;
+        var value;
+        
+        authKey = (unsignedChar * key);
+        index = value;
+        key = value;
+        
+        if (read == "0x00")
+            {
+            
+            alert("Ok")
+        else
+            alert("Fail")
+            }
+        }
+        
+        </script>
+        </body>
+        </html>
+                               
+          <html>
+          <body>
+          <script>
+           
+           Function UpdateKey()
+           {
+               var index;
+               var unsignedChar;
+               var newPass;
+               var oldPass;
+               var read;
+               var newPassKey;
+               var oldPassKey;
+               var keyNumber;
+               
+               newPassKey = (unsignedChar * newPass);
+               oldPassKey = (unsignedChar * oldPass);
+               index = keyNumber;
+               
+               if (read == "0X00")
+               {
+                   alert("Ok")
+                   
+                   else
+                   
+                  if (read == "Other")
+                    {
+                        alert("Fail")
+                    }
+               }
+               
+               
+           }
+          
+          </script>
+          </body>
+          </html>
+          
+          <html>
+          <body>
+          <script>
+          
+           Function GetKeySetting()
+           {
+               var result;
+               var unsignedChar;
+               var read;
+               var keySetting;
+               
+               keySetting = (unsignedChar * result);
+               
+               if (read == "0X00")
+               {
+                   alert("Ok")
+                   
+                   else
+                   
+                 if (read == "Other")
+                   {
+                       alert("Fail")
+                   }
+               }
+           }
+          
+          
+          </script>
+          </body>
+          </html>
+                 
+          <html>
+          <body>
+          <script>
+            Function ChangeKeySetting()
+            {
+                var unsignedCharKeySetting;
+                var keyValue;
+                var read;
+                
+                unsignedCharKeySetting = keyValue;
+                
+                if (read == "0X00")
+                {
+                    alert("OK")
+                    
+                    else
+                    
+                    if (read == "Other")
+                    {
+                        alert("Fail")
+                    }
+                }
+            }
+          
+          </script>
+          </body>
+          </html>
+                               
+          <html>
+          <body>
+          <script>
+           Function GetKeyVersion()
+           {
+               var keyNum;
+               var unsignedChar;
+               var OutVer;
+               var read;
+               
+               keyNum = (unsignedChar * OutVer);
+               
+               if (read == "0X00")
+               {
+                   alert("OK")
+                   
+                   else
+                   
+                   if (read == "Other")
+                   {
+                       alert("Fail")
+                   }
+               }
+           }
+          </script>
+          </body>
+          </html>
+          
+          <html>
+          <body>
+          <script>
+          
+          Function SelectApplication()
+          {
+              var unsignedChar;
+              var aid;
+              var keyVersion;
+              var selectAid;
+              var read;
+              
+              selectAid = (unsignedChar * aid);
+              
+              if (read == "0X00")
+              {
+                  alert("OK")
+                  
+                 else
+                 
+                 if (read == "Other")
+                 {
+                     alert("Fail")
+                 }
+              }
+              
+          }
+          
+          </script>
+          </body>
+          </html>
+          
+          <html>
+          <body>
+          <script>
+           Function CreateApplication()
+           {
+              
+              var unsignedChar;
+              var unsignedCharSetting;
+              var aid;
+              
+              unsignedCharSetting = (unsignedChar * aid);
+           }
+          </script>
+          </body>
+          </html>
+          
+          <html>
+          <body>
+          <script>
+          
+          Function DeleteApplication()
+          {
+              var deleteAid;
+              var unsignedChar;
+              var aid;
+              var read;
+              
+              deleteAid = (unsignedChar * aid);
+              
+              if (read == "0X00")
+              {
+                  alert("Ok")
+                  
+                  else
+                  
+                  if (read == "Other")
+                  {
+                      alert("Fail")
+                  }
+              }
+          }
+          
+          </script>
+          </body>
+          <html>
+                               
+           <html>
+           <body>
+           <script>
+           
+           Function GetApplicationIDentifiers()
+           {
+               var unsignedChar;
+               var aidNum;
+               var aids;
+               var read;
+               
+               aidNum = (unsignedChar * aidNum);
+               
+               aids = (unsignedChar * aids);
+           
+           
+               if (read == "0x00")
+               
+               {
+                   alert("Ok")
+                   
+                   else 
+                   
+                   if (read =="Other")
+                   {
+                       alert("Fail")
+                   }
+               }
+           }
+           
+           </script>
+           </body>
+           </html>
+           
+           <html>
+           <body>
+           <script>
+           
+           Function FormatCard()
+           {
+               var read;
+               
+               if (read == "0x00")
+               {
+               alert("OK")
+               
+               else
+               if (read == "Other")
+               {
+                   alert("Fail")
+               }
+               
+           }
+           }
+           
+           
+           
+           </script>
+           </body>
+           </html>
+           
+           <html>
+           <body>
+           <script>
+           
+           Function GetCardInfo()
+           {
+               var unsignedChar;
+               var result;
+               var cardInfo;
+               var read;
+               
+               cardInfo = (unsignedChar * result);
+               
+               if (read == "0x00")
+               {
+                   alert("OK")
+                   
+                   else
+                   
+                   if (read == "Other")
+                   {
+                       alert("Fail")
+                   }
+               }
+           }
+           
+           </script>
+           </body>
+           </html>
+           
+           
+           <html>
+           <body>
+           <script>
+           
+           Function GetFileIdentifiers()
+           {
+               var unsignedChar;
+               var filenum;
+               var fileIDs;
+               var read;
+               
+               filenum = (unsignedChar * filenum);
+               fileIDs = (unsignedChar * fileIDs);
+               
+               if (read == "0x00")
+              {
+                  alert("Ok")
+                  
+                  else
+                  
+                  if (read == "Other")
+                  {
+                      alert("Fail")
+                  }
+              }
+           }
+           
+           </script>
+           </body>
+           <html>
+           
+           <html>
+           <body>
+           <script>
+           
+           Function GetFileSettings()
+           {
+               var read;
+               var index;
+               var unsignedChar;
+               var filesetting;
+               var outlen;
+               var value;
+               
+               index = value;
+               
+               filesetting = (unsignedChar * filesetting);
+               outlen = (unsignedChar * outlen);
+               
+               if (read == "0x00")
+               {
+                   alert("OK")
+                   
+                   else
+                   
+                   if (read == "Other")
+                   {
+                       alert("Fail")
+                   }
+                   
+               }
+           }
+           
+           
+           </script>
+           </body>
+           </html>
+           
+           <html>
+           <body>
+           <script>
+           
+           Function ChangeFileSetting()
+           {
+               var index;
+               var unsignedChar;
+               var setting;
+               var read;
+               var value;
+               
+               index = value;
+               setting = (unsignedChar * setting);
+               
+               
+               if (read == "0x00")
+               {
+                   alert("Ok")
+                   
+                   else
+                   
+                   if (read == "Other")
+                   {
+                       alert("Fail")
+                   }
+                   
+                   }
+                 }
+                 
+            
+           
+           </script>
+           </body>
+           </html>
+           
+           
+           <html>
+           <body>
+           <script>
+           
+           Function CreateStdDataFile()
+           {
+               var index;
+               var unsignedChar;
+               var settings;
+               var filesize;
+               var read;
+               var value;
+               
+               index= value;
+               filesize = (unsignedChar * filesize);
+               settings = (unsignedChar * settings);
+               
+               if (read =="0x00")
+               {
+                   alert("OK")
+                   
+                  else
+                  
+                  if (read == "Other")
+                  {
+                      alert("Fail")
+                  }
+               }
+              
+           }
+           
+           </script>
+           </body>
+           </html>
+                               
+             <html>
+             <body>
+             <script>
+             
+             Function CreateBackupDataFile()
+             {
+                 var index;
+                 var unsignedChar;
+                 var settings;
+                 var filesize;
+                 var read;
+                 var value;
+                 
+                 index = value;
+                 settings = (unsignedChar * settings);
+                 filesize = (unsignedChar * filesize);
+                 
+                 if (read == "0x00")
+                 {
+                     alert("Ok")
+                     
+                     else
+                     
+                     if (read =="Other")
+                     {
+                         alert("Fail")
+                     }
+                 }
+                 
+             }
+             
+             </script>
+             </body>
+             </html>
+             
+             <html>
+             <body>
+             <script>
+             
+             Function CreateValueFile()
+             {
+                 var index;
+                 var unsignedChar;
+                 var settings;
+                 var lowsb;
+                 var highsb;
+                 var initsb;
+                 var fileNo;
+                 var unsignedCharLimiten;
+                 var value;
+                 var read;
+                 
+                 index = fileNo;
+                 settings = (unsignedChar * settings);
+                 lowsb = (unsignedChar * lowsb);
+                 highsb = (unsignedChar * highsb);
+                 initsb = (unsignedChar * initsb);
+                 unsignedCharLimiten = value;
+                 
+                 
+                 if (read == "0X00")
+                 {
+                     alert("Ok")
+                     
+                     else
+                     
+                     if (read == "Other")
+                     
+                     {
+                         alert("Fail")
+                     }
+                 }
+                 
+             }
+             
+             </script>
+             </body>
+             </html>
+             
+             
+             <html>
+             <body>
+             <script>
+             
+             Function CreateCyclicRecordFile()
+             {
+                 var unsignedChar;
+                 var index;
+                 var settings;
+                 var filesize;
+                 var number;
+                 var read;
+                 var fileNumber;
+                 
+                 index = fileNumber;
+                 
+                 settings = (unsignedChar * settings);
+                 filesize = (unsignedChar * filesize);
+                 number = (unsignedChar * number);
+                 
+                 if (read == "0X00")
+                 {
+                     alert("OK")
+                     
+                     else
+                     
+                     if (read =="Other")
+                     {
+                         alert("Fail")
+                     }
+                 }
+                 
+             }
+             
+             
+             
+             </script>
+             </body>
+             </html>
+             
+             <html>
+             <body>
+             <script>
+             
+             Function DeleteFile()
+             {
+                 var index;
+                 var fileNumber;
+                 var read;
+                 
+                 index = fileNumber;
+                 
+                 if (read == "0X00")
+                 {
+                    alert("Ok")
+                    
+                    else
+                   
+                    if (read == "Other")
+                    {
+                        alert("Fail")
+                    }
+                    
+                 
+             }
+             
+                 
+             }
+             
+             </script>
+             </body>
+             </html>
+             
+                               
+            <html>
+            <body>
+            <script>
+            
+            Function WriteDataFile()
+            {
+                var index;
+                var unsignedChar;
+                var address;
+                var length;
+                var data;
+                var fileNumber;
+                var read;
+                
+                index = fileNumber;
+                address = unsignedChar * address;
+                length = unsignedChar * length;
+                data = unsignedChar * data;
+                
+                if (read == "0x00")
+                {
+                    alert("Ok")
+                    
+                    else
+                    
+                    if (read == "Other")
+                    {
+                        alert("Fail")
+                    }
+                }
+            }
+            
+            </script>
+            </body>
+            </html>
+            
+            <html>
+            <body>
+            <script>
+              Function ReadDataFile()
+              {
+                  var index;
+                  var unsignedChar;
+                  var offset;
+                  var len; 
+                  var outData;
+                  var dataLen;
+                  var fileNumber;
+                  var read;
+                  
+                  index = fileNumber;
+                  offset = (unsignedChar * offset);
+                  len = (unsignedChar * len);
+                  outData = (unsignedChar * outData);
+                  dataLen = (unsignedChar * dataLen);
+                  offset = (unsignedChar * offset);
+                  
+                  if (read == "0x00")
+                  {
+                      alert("OK")
+                      else
+                      
+                      if (read == "Other")
+                      alert("Fail")
+                  }
+              }
+            
+            </script>
+            </body>
+            </html>
+            
+            <html>
+            <body>
+            <script>
+            
+            Function GetValueFile()
+            {
+                var unsignedChar;
+                var index;
+                var outValue;
+                var read;
+                var fileNumber;
+                
+                index = fileNumber;
+                outValue = (unsignedChar * outValue);
+            
+            if (read == "0x00")
+            {
+                alert("Ok")
+                
+                else
+                
+                if (read == "Other")
+                {
+                    alert("Fail")
+                }
+            }
+            }
+            </script>
+            </body>
+            </html>
+            
+            
+            Function PlusValueFile()
+            {
+                var index;
+                var unsignedChar;
+                var value;
+                var fileNumber;
+                var read;
+                
+                index = fileNumber;
+                
+                value = (unsignedChar * fileNumber);
+                
+                if (read == "0x00")
+                {
+                    alert("Ok")
+                    
+                    else
+                    
+                    if (read == "Other")
+                    {
+                        alert("Fail")
+                    }
+                }
+            }
+            
+            <html>
+            <body>
+            <script>
+             Function MinusValueFile()
+             {
+                 var unsignedChar;
+                 var index;
+                 var value;
+                 var read;
+                 var fileNumber;
+                 
+                 index = fileNumber;
+                 
+                 value = (unsignedChar * value);
+                 
+                 if (read == "0x00")
+                 {
+                     alert("Ok")
+                     else
+                     
+                if (read == "Other")
+                {
+                    alert("Fail")
+                }
+                 }
+                 
+                 
+             }
+            
+            </script>
+            </body>
+            </html>
+            
+            <html>
+            <body>
+            <script>
+            
+            Function WriteRecord()
+            {
+                var unsignedChar;
+                var index;
+                var offset;
+                var len;
+                var data;
+                var fileNumber;
+                var read;
+                
+                index = fileNumber;
+                offset = (unsignedChar * offset);
+                len = (unsignedChar * len);
+                data = (unsignedChar * data);
+                
+                if (read == "0x00")
+                {
+                    alert("Ok")
+                    else
+                    
+                    if (read == "Other")
+                    alert("Fail")
+                }
+            }
+            
+            
+            </script>
+            </body>
+            </html>
+            
+            <html>
+            <body>
+            <script>
+            
+            Function ReadRecord()
+            {
+                var index;
+                var unsignedChar;
+                var offset;
+                var recordNum;
+                var OutData;
+                var DataLen;
+                var unsignedInt;
+                var read;
+                var fileNumber;
+                
+                index = fileNumber;
+                
+                offset = (unsignedChar * offset);
+                
+                recordNum = (unsignedChar * recordNum);
+                
+                OutData = (unsignedChar * OutData);
+                
+                DataLen = (unsignedInt * DataLen);
+                
+                if (read == "0x00")
+                {
+                    alert("Ok")
+                    
+                    else
+               if (read == "Other")
+               {
+                   alert("Fail")
+               }
+                    
+                }
+                
+                
+            }
+            
+            </script>
+            </body>
+            </html>
+            
+            <html>
+            <body>
+            <script>
+             
+             Function ClearRecordFile()
+             {
+                 var index;
+                 var fileNumber;
+                 var read;
+                 
+                 index = fileNumber;
+                 
+                 if (read == "0x00")
+                 {
+                     alert("Ok")
+                     
+                     else
+                
+                if (read == "Other")
+                {
+                    alert("Fail")
+                }
+                 }
+             }
+            
+            </script>
+            </body>
+            </html>
+            
+            
+            <html>
+            <body>
+            <script>
+            Function CommitTransaction()
+            {
+                var read;
+                
+                if (read == "0x00")
+                {
+                    alert("Ok")
+                    else
+                if (read == "Other")
+                {
+                
+                
+                alert("Fail")
+            }
+            }
+            }
+            </script>
+            </body>
+            </html>
+            
+            <html>
+            <body>
+            <script>
+            
+            Function AbortTranction()
+            {
+                var read;
+                
+                if (read =="0x00")
+                {
+                    alert("Ok")
+                    
+                    else 
+                    
+                    if (read == "Other")
+                    {
+                        alert("Fail")
+                    }
+                }
+            }
+            
+            </script>
+            </body>
+            </html>
+            
+            <html>
+            <body>
+            <script>
+             
+             Function setPortNumber()
+             {
+                 var comID;
+                 var comNumber;
+                 var read;
+                 
+                 
+                 if (read =="0x00")
+                 {
+                     alert("OK")
+                     
+                     else
+                     
+                     if (read == "Other")
+                     {
+                         alert("Fail")
+                     }
+                 }
+             }
+            
+            </script>
+            </body>
+            </html>
+            
+            <html>
+            <body>
+            <script>
+            
+            Function GetPortNumber()
+            {
+                var comID;
+                var unsignedChar;
+                var read;
+                
+                comID = (unsignedChar * comID);
+                
+                if (read == "0x00")
+                {
+                    alert("Ok")
+                    
+                else
+                 
+                 if (read =="Other")
+                 {
+                     alert("Fail")
+                 }
+                
+                }
+            }
+            
+            
+            </script>
+            </body>
+            </html>
+            
+            <html>
+            <body>
+            <script>
+            
+            Function PinPadInit()
+            {
+                var read;
+                
+                if (read == "0x00")
+                {
+                 alert("Ok")
+                 
+                 else
+                 
+                 if (read =="Other")
+                 {
+                     alert("Fail")
+                 }
+            }
+            
+            }
+            </script>
+            </body>
+            </html>
+            
+            <html>
+            <body>
+            <script>
+            
+            Function GetPinPadInformation()
+            {
+                var outVer;
+                var outSn;
+                var unsignedChar;
+                var read;
+                
+                outVer = (unsignedChar * outVer);
+                outSn = (unsignedChar * outSn);
+                
+                if (read == "0x00")
+                {
+                    alert("Ok")
+                    
+                    else
+                    
+               if (read == "Other")
+               {
+                   alert("Fail")
+               }
+                }
+                
+                
+                
+            }
+            
+            </script>
+            </body>
+            </html>
+            
+            
+            <html>
+            <body>
+            <script>
+            
+            Function LoadMasterKey()
+            {
+                var unsignedKeyId;
+                var unsignedKeyType;
+                var keyBuff;
+                var unsignedChar;
+                var keyLen;
+                var read;
+                
+                unsignedKeyId = unsignedKeyType;
+                
+                keyBuff = (unsignedChar * keyBuff);
+                
+                keyLen = (unsignedChar * keyLen);
+                
+                if (read == "0x00")
+                {
+                    alert("Ok")
+                    
+                    else
+                    
+                    if (read == "Other")
+                    {
+                        alert("Fail")
+                    }
+                    
+                
+                }
+                
+            }
+            
+            </script>
+            </body>
+            </html>
+            
+            <html>
+            <body>
+            <script>
+            
+            Function LoadWorkKey()
+            {
+                var wKeyID;
+                var mKeyID;
+                var unsignedChar;
+                var keyBuff;
+                var read;
+                
+                
+                wKeyID = mKeyID;
+                keyBuff = (unsignedChar * keyBuff);
+                
+                if (read == "0x00")
+                {
+                    alert("Ok")
+                    
+                    else 
+                    
+                    if (read == "Other")
+                    {
+                        alert("Fail")
+                    }
+                }
+                 
+            }
+            
+            </script>
+            </body>
+            </html>
+            
+            <html>
+            <body>
+            <script>
+            
+            Function GetPinBlock()
+            {
+                var title, value, read, unsignedChar, PAN, PINDATA, password, minPinLen, keyIndex, keyNo, unsignedCharMode;
+                var timeout, MaxPinLen;
+                
+                title = (unsignedChar * title);
+                
+                unsignedCharMode = value;
+                
+                PAN = (unsignedChar * PAN);
+                
+                PINDATA = (unsignedChar * PINDATA);
+                
+                if (password >= 4)
+                {
+                    minPinLen = value;
+                    
+                    if (password <= 12)
+                    {
+                        MaxPinLen = value;
+                        timeout = value;
+                        keyIndex = keyNo;
+                        
+                        if (read == "0x00")
+                        {
+                            alert("Ok")
+                            
+                            else
+                            
+                        if (read == "Other")
+                        {
+                            alert("Fail")
+                        }
+                        }
+                    }
+                    
+                }
+            }
+            
+            </script>
+            </body>
+            </html>
+            
+            <html>
+            <body>
+            <script>
+            
+            Function GetMac()
+            {
+                var callMode;
+                var MAC_X99 = 0;
+                var MAC_X919 = 1;
+                var read;
+                var unsignedChar;
+                var PMac;
+                var Data;
+                var keyIndex;
+                var keyNo;
+                
+                callMode = 0;
+                callMode = 1;
+                
+                
+                
+                PMac = (unsignedChar * PMac);
+                Data = (unsignedChar * Data);
+                
+                keyIndex = keyNo;
+                
+                if (read == "0x00")
+                {
+                    alert("Ok")
+                    
+                    else
+                    
+                    if (read =="Other")
+                    {
+                        alert("Fail")
+                    }
+                
+                }
+                
+            
+                
+            }
+            
+            </script>
+            </body>
+            </html>
+            
+            
+            <html>
+            <body>
+            <script>
+            
+            Function CalcDES()
+            {
+                var callMode;
+                var encrypt = 0;
+                var decrypt = 1;
+                var unsignedChar;
+                var InData;
+                var InDataLen;
+                var OutData;
+                var InvData;
+                
+                
+            OutData = (unsignedChar * OutData);
+            
+            InData = (unsignedChar * InData);
+            
+            InDataLen = (8 * InDataLen);
+            
+            InvData = (unsignedChar * InvData);
+            
+            if (read =="0x00")
+            {
+                alert("Ok")
+                
+                else
+                
+                if (read == "Other")
+                {
+                    alert("Fail")
+                }
+            }
+            }
+            
+            </script>
+            </body>
+            </html>
+            
+            <html>
+            <body>
+            <script>
+            
+              Function CalcDES();
+              
+                Function GetMac();
+                
+                  Function GetPinBlock();
+            
+                        Function GetPinBlock();
+                        
+                        Function LoadWorkKey();
+                        
+                        Function LoadMasterKey();
+                        
+                        Function GetPinPadInformation();
+                        
+                        Function PinPadInit();
+                        
+                        Function setPortNumber();
+                        
+                        Function GetPortNumber();
+                        
+                        Function PinPadInit();
+                        
+                        Function CommitTransaction();
+                        
+                        Function AbortTranction();
+                        
+                         Function ClearRecordFile();
+                         
+                         Function MinusValueFile();
+                         
+                         Function MinusValueFile();
+                         
+                         Function WriteRecord();
+                         
+                         Function GetValueFile();
+                         
+                         Function PlusValueFile();
+                         
+                         Function ReadDataFile();
+                         
+                         Function DeleteFile();
+                         
+                         Function WriteDataFile();
+                        
+                         Function CreateCyclicRecordFile();
+                         
+                         Function CreateValueFile();
+                         
+                         Function CreateStdDataFile();
+                         
+                         Function CreateBackupDataFile();
+                         
+                         Function GetFileSettings();
+                         
+                         Function ChangeFileSetting();
+                         
+                         Function GetCardInfo();
+                         
+                         Function GetTransParamPoint();
+                         
+                         Function GetTlvData();
+                         
+                         Function emvCoreGetTermParam();
+                         
+                         Function addAidsList();
+                         
+                         Function addCapk();
+                         
+                         Function CardNumber();
+                         
+                         Function EMVCoreInit();
+                         
+                         Function MagOpen();
+                         
+                         Function MagClose();
+                         
+                         Function MagRest();
+                         
+                         Function DetectSwipe();
+                         
+                         Function ReadCardOuter();
+                         
+                         Function GetFileIdentifiers();
+                         
+                         Function GetFileSettings();
+                         
+                         Function DeleteApplication();
+                         
+                         Function GetApplicationIDentifiers();
+                         
+                         Function FormatCard();
+                         
+                         Function SelectApplication();
+                         
+                         Function CreateApplication();
+                         
+                         Function GetKeyVersion();
+                         
+                         Function GetKeySetting();
+                         
+                         Function ChangeKeySetting();
+                         
+                         Function PowerOffDesireCard();
+                         
+                         Function AuthenticationKey();
+                         
+                         Function RequestDesireCard();
+                         
+                         Function ActivationDesireCard();
+                         
+                         Function setCallback();
+                         
+                         Function ClearAidList();
+                         
+                         Function ClearCAPKList();
+                         
+                         Function setTLVdata();
+                         
+                         Function WriteDataFile();
+                         
+                         Function ReadSectorData();
+                         
+                         Function PowerOffRfid();
+                         
+                         Function WriteBlockData();
+                         
+                         Function ReadBlockData();
+                         
+                         Function PowerOffDesireCard();
+                         
+                         Function CardAuthority();
+                         
+                         Function FindCard();
+                         
+                         Function SelectRFICard();
+                         
+                         Function CardWriteRead();
+                         
+                         Function IccDel();
+                         
+                         Function GetSDK();
+                         
+                         Function IntitialICCard();
+                         
+                         Function intialDevice();
+                         
+                         Function CardWriteRead();
+                         
+                         Function CloseDevice();
+                         
+                         Function Download3DFS();
+                         
+                         
+            </script>
+            </body>
+            </html>
